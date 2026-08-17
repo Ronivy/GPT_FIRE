@@ -1,0 +1,82 @@
+{
+  "holdings": [
+    {
+      "name": "VXUS",
+      "ticker": "VXUS",
+      "market": "US",
+      "units": 0.0,
+      "price": 0.0,
+      "currency": "USD",
+      "monthly": 0.0,
+      "enabled": true
+    },
+    {
+      "name": "SOXX",
+      "ticker": "SOXX",
+      "market": "US",
+      "units": 0.0,
+      "price": 0.0,
+      "currency": "USD",
+      "monthly": 20000.0,
+      "enabled": true
+    },
+    {
+      "name": "00988A",
+      "ticker": "00988A.TW",
+      "market": "TW",
+      "units": 0.0,
+      "price": 0.0,
+      "currency": "TWD",
+      "monthly": 20000.0,
+      "enabled": true
+    },
+    {
+      "name": "00830",
+      "ticker": "00830.TW",
+      "market": "TW",
+      "units": 0.0,
+      "price": 0.0,
+      "currency": "TWD",
+      "monthly": 0.0,
+      "enabled": true
+    },
+    {
+      "name": "路博邁台灣5G基金",
+      "ticker": "",
+      "market": "FUND",
+      "units": 0.0,
+      "price": 0.0,
+      "currency": "TWD",
+      "monthly": 0.0,
+      "enabled": true
+    },
+    {
+      "name": "聯博美國成長基金",
+      "ticker": "",
+      "market": "FUND",
+      "units": 0.0,
+      "price": 0.0,
+      "currency": "TWD",
+      "monthly": 0.0,
+      "enabled": true
+    }
+  ],
+  "fx_usdtwd": 31.5,
+  "fx_manual": true,
+  "last_update": null,
+  "mortgage": {
+    "principal": 8500000.0,
+    "annual_rate": 0.024,
+    "years": 20,
+    "start_date": "2026-08-17",
+    "extra_payment": 0.0
+  },
+  "forecast": {
+    "years": 20,
+    "return_rate": 0.08,
+    "monthly_contribution_years": 10,
+    "inflation": 0.02,
+    "house_value": 0.0,
+    "house_growth": 0.02
+  }
+}
